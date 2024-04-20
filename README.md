@@ -3,6 +3,8 @@
 
 <p>The goal of this tutorial project is to create a recipe list exclusively with HTML. I will make a full menu with working links. Clicking on a link will then automatically open a new webpage that will show the viewer the selected recipe, complete with a picture of the food, brief description, list of ingredients and all the cooking phases, from food preparation to the final product.</p>
 
+<p>At April 03 2024, my Odin Project journey led me to implement minor CSS adjustments to this project. I decided to keep it basic and instead ensure I could understand and practice with the syntax and class attributes.</p>
+
 ### Challenges:
 
 <p>As this is my first time working on a (albeit small) project, overall I can say I'm satisfied with my performance. I was able to easily organize my work, establish a layout and set up my code so that it was navigable and easy to understand. Working with HTML has been a fun experience and I plan on expanding my knowledge on the subject in the foreseeable future. On a minor note, I should also brush up on Markdown, so I could write better readme files in the future.</p>
