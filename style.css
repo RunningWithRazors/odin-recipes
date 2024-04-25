@@ -7,8 +7,9 @@ body {
     background: rgb(161, 160, 161); 
 }
 
-/*While I've tested a background image, for now I will leave a simple shade of light grey to
-work as a background. You can find the proposed background image in /images, named as "background.jpg".*/
+.text-centered {
+    text-align: center;
+}
 
 .main-img {
     display: block;
@@ -20,21 +21,17 @@ work as a background. You can find the proposed background image in /images, nam
     background: black;    
 }    
 
-.under-image{
+/*While I've tested a background image, for now I will leave a simple shade of light grey to
+work as a background. You can find the proposed background image in /images, named as "background.jpg".*/
+
+.under-image-text{
     text-align: center;
     font-weight: bold;
     color: white;    
     padding: 8px;
 }
 
-h1 {
-    text-align: center;
-}
-
-
-.appetizers-title {
-    width: 120px;
-    height: auto;    
+.appetizers-title {        
     color: rgb(27, 92, 11);
 }
 
